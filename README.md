@@ -5,3 +5,4 @@ Creating an advance face recognised attendance system using Machine Learning for
 In this project I basically used Haar-like feature and Local Binary Pattern Histogram (LBPH) algorithm
 where students or employees can marks there attendance by own-self and administrator can access all 
 there details by using just a single photo and database.
+
