@@ -1,4 +1,5 @@
-# Face-Recognition-Attendance-System
+# ATTENDANT
+## Face-Recognition-Attendance-System
 An advanced Face Recognition System which is capable to take attendance of students and employees.
 
 Creating an advance face recognised attendance system using Machine Learning for students or employees.
